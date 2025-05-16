@@ -1,4 +1,6 @@
-# Truxie Shipper Web
+# **This documentation/guide contains all necessary steps to successfully setup and initialize Truxie's dev application divided in three major sections Shipper Web setup, Backend Server setup and Docker setup.**
+
+# A) Truxie Shipper Web
 
 This repository contains the web application for Truxie's shipper platform.
 
@@ -63,7 +65,7 @@ truxie-shipper-web/
  ```
 
 
-# Truxie Backend Setup Documentation
+# B) Truxie Backend Setup Documentation
 This guide provides step-by-step instructions for setting up the Truxie backend application on Windows.
 
 ## Prerequisites
@@ -206,7 +208,7 @@ This has solved the problem for most of us, if this issue still persists, contac
 - Issue : Cannot connect to ULIP simulator
 - Solution : Verify the simulator container is running on port 8123
 
-# Docker initialization and Setup:
+# C) Docker initialization and Setup:
 
 ## Prerequisites (Overall)
 - Docker Desktop for Windows installed and running
